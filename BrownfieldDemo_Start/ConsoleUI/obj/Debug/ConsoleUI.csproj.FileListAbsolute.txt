@@ -1,0 +1,6 @@
+C:\Users\Migui\Desktop\BrownfieldDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Migui\Desktop\BrownfieldDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Migui\Desktop\BrownfieldDemo_Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Migui\Desktop\BrownfieldDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Migui\Desktop\BrownfieldDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Migui\Desktop\BrownfieldDemo_Start\ConsoleUI\obj\Debug\ConsoleUI.pdb
